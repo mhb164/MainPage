@@ -1,15 +1,15 @@
 {
   "mainAssemblyName": "MainPage",
   "resources": {
-    "hash": "sha256-ymZNbokEiuyXrJa2gPM872l/CXP4+5lXATaY/N9vrbI=",
+    "hash": "sha256-jn0untj6mQ8iBmVqbQyN8lRa9fs5NUKuOietcJfX14U=",
     "jsModuleNative": {
-      "dotnet.native.8.0.0.6fb6lwrpaw.js": "sha256-04bMBxhfbLnW49rU7yeIjQxj+PfrFjGbUEcwoFLEZ1g="
+      "dotnet.native.8.0.0.45ykigla5r.js": "sha256-LjLDIz9+J7uuiwMlQ4HbNx2BnSpphOtO2MwkoI28vdI="
     },
     "jsModuleRuntime": {
-      "dotnet.runtime.8.0.0.14kkjimq5k.js": "sha256-WdSX3HQvnBYF0KJLZoOyHvTzMHetaob6PV0Kn2K+QXw="
+      "dotnet.runtime.8.0.0.4nmj5hsanr.js": "sha256-WdSX3HQvnBYF0KJLZoOyHvTzMHetaob6PV0Kn2K+QXw="
     },
     "wasmNative": {
-      "dotnet.native.wasm": "sha256-hgWIitI0T5u4i057YE54sEo6Kvb9PIrrmqjgKxsdHmo="
+      "dotnet.native.wasm": "sha256-Vr6ZXKoP77zgabrMIxQ1GbOkrxfx5XGqHO0odLhUIMY="
     },
     "icu": {
       "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "MainPage.wasm": "sha256-4pOZq2YhB+vGR+SUQyycmOn0+Oq+KdVyjKC4wMOfg7c=",
+      "MainPage.wasm": "sha256-xvkmaHNT7+BCjURH7ZCCtg+Y8m/AVgVKIjuCbOZtsM8=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-VS0AiSyRt/aiOantX+eu1XIT896oY37PcKt0QzpEb1A=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-ivj7kxN8rrhTm1UV0H7dhsOewu6rhATFU2ZAG/YKLvA=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-Ws5szf6fWPAXna+XyWsAhavx+WDFcA/91DQ7iPRPCMs=",
