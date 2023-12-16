@@ -20,7 +20,7 @@ jobs:
         dotnet-version: 8.x
 
     # publishes Blazor project to the release-folder
-    - name: Publish .NET Core Project
+    - name: Publish .NET 8 Project
       run: dotnet publish MainPage.csproj -c Release -o release --nologo
     
     # changes the base-tag in index.html from '/' to 'BlazorGitHubPagesDemo' to match GitHub Pages repository subdirectory
